@@ -1,7 +1,7 @@
 ### Hi, I'm Camila Delazari, IT student
 
 - 💻 I'm currently working as a trainee; 
-- 📚 I'm currently studying Information Systems;
+- 📚 I'm studying Information Systems in college;
 - 📕 I'm currently studying Java and studying front-end for my self.
 
 <div align="center">
