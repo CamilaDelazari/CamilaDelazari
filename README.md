@@ -4,7 +4,7 @@
 - 📚 I'm studying Information Systems in college;
 - 📕 I'm currently studying Java and studying front-end for my self.
 
-<div align="center">
+<div>
   <a href="https://github.com/CamilaDelazari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaDelazari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
